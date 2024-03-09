@@ -2,6 +2,11 @@
 
 Welcome to the BlockBusters A* Search Game Challenge! Test your skills against an A* search algorithm in both control mode and competitive mode sessions. Compete to see who can earn the most points, choosing between easy, normal, and hard difficulty levels.
 
+
+
+https://github.com/eawariyah/BlockBusters-A_2D_A-star_search_game/assets/109866711/19e21677-0d62-40ea-85d0-d0ae382c607f
+
+
 ## Overview
 
 This game is developed using Pygame and challenges players to navigate a maze, competing against an A* search algorithm. Choose your difficulty level and mode to experience a thrilling gaming adventure.
